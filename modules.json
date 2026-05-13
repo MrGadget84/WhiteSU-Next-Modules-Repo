@@ -88,5 +88,16 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/BasGame1/Pixelify-Next",
     "license": "Apache-2.0"
+  },
+  {
+    "id": "zapret-magisk",
+    "name": "Zapret",
+    "description": "Magisk module with zapret",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "ImMALWARE",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/ImMALWARE/zapret-magisk",
+    "license": "MIT"
   }
 ]
