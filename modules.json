@@ -110,5 +110,16 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/5ec1cff/TrickyStore",
     "license": "idk"
+  },
+  {
+    "id": "force-fast-charge",
+    "name": "Force Fast Charge",
+    "description": "This module enables Force Fast Charging Technology for various supported Android devices and custom kernels systemlessly.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "Nixsuki",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/Nixsuki/Force-Fast-Charge",
+    "license": "idk"
   }
 ]
