@@ -8,43 +8,6 @@
     "bannerUrl": "https://raw.githubusercontent.com/KernelSU-Next/KPatch-Next-Module/main/module/banner.png"
   },
   {
-    "name": "KernelSU Toolkit",
-    "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
-    "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/rifsxd/ksu_toolkit",
-    "license": "Unlicense"
-  },
-  {
-    "name": "Bindhosts",
-    "description": "Systemless hosts for APatch, KernelSU and Magisk",
-    "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/bindhosts/bindhosts",
-    "license": "WTFPL"
-  },
-  {
-    "name": "TEESimulator",
-    "description": "Software simulation for Android hardware-backed key pairs with key attestation",
-    "author": "JingMatrix",
-    "repoUrl": "https://github.com/JingMatrix/TEESimulator",
-    "license": "GPL-3.0"
-  },
-  {
-    "name": "ReZygisk",
-    "description": "Standalone implementation of Zygisk",
-    "author": "The PerformanC Organization",
-    "repoUrl": "https://github.com/PerformanC/ReZygisk",
-    "license": "GPL-3.0",
-    "visibility": 1
-  },
-  {
-    "name": "✨ COPG Spoof ✨",
-    "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
-    "author": "Alireza Parsi",
-    "repoUrl": "https://github.com/AlirezaParsi/COPG",
-    "license": "Apache-2.0",
-    "bannerUrl": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/banner.png"
-  },
-  {
     "name": "Play Integrity Fix [INJECT]",
     "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
     "author": "chiteroman, KOWX712",
@@ -57,7 +20,6 @@
     "author": "sidex15",
     "repoUrl": "https://github.com/sidex15/deviceidchanger",
     "license": "AGPL-3.0"
-
   },
   {
     "name": "SUSFS-FOR-KERNELSU",
@@ -68,70 +30,11 @@
     "bannerUrl": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/v1.5.2%2B/banner.png"
   },
   {
-    "name": "BRENE - SUSFS-FOR-KERNELSU",
-    "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
-    "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
-    "repoUrl": "https://github.com/rrr333nnn333/BRENE",
-    "license": "AGPL-3.0"
-  },
-  {
-    "name": "BreZygisk",
-    "description": "A ReZygisk Fork - Transparent implementation of Zygisk.",
-    "author": "rrr333nnn333 & The PerformanC Organization",
-    "repoUrl": "https://github.com/rrr333nnn333/BreZygisk",
-    "license": "AGPL-3.0"
-  },
-  {
-    "name": "Yuri Keybox Manager",
-    "description": "A systemless module to get strong integrity so easily",
-    "author": "Yuri, Tam and Yurikey Developers",
-    "repoUrl": "https://github.com/Yurii0307/yurikey",
-    "license": "GPL-3.0",
-    "bannerUrl": "https://raw.githubusercontent.com/Yurii0307/yurikey/main/doc/banner.webp"
-  },
-  {
-    "name": "Vector (LSP)",
-    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16",
-    "author": "JingMatrix and LSPosed Developers",
-    "repoUrl": "https://github.com/JingMatrix/Vector",
-    "license": "GPL-3.0"
-  },
-  {
-    "name": "NeoZygisk",
-    "description": "Zygote injection with ptrace",
-    "author": "JingMatrix",
-    "repoUrl": "https://github.com/JingMatrix/NeoZygisk/",
-    "license": "GPL-3.0"
-  },
-  {
-    "name": "zygisk-detach",
-    "description": "Zygisk module to detach installed apps from Play Store, hooking binder",
-    "author": "j-hc",
-    "repoUrl": "https://github.com/j-hc/zygisk-detach",
-    "license": "Apache-2.0"
-  },
-  {
     "name": "Tricky Addon",
     "description": "A WebUI to configure Tricky Store/TEESimulator target.txt",
     "author": "KOWX712",
     "repoUrl": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
     "license": "GPL-3.0"
-  },
-  {
-    "name": "Encore Tweaks",
-    "description": "Special performance module for your device",
-    "author": "Rem01Gaming",
-    "repoUrl": "https://github.com/Rem01Gaming/encore",
-    "license": "Apache-2.0",
-    "bannerUrl": "https://encore.rem01gaming.dev/ogp/default.webp"
-  },
-  {
-    "name": "Re-Malwack | Not just a normal ad-blocker module ✨",
-    "description": "A fully-fledged ad-block module. Contains all your needs ✨",
-    "author": "ZG089",
-    "repoUrl": "https://github.com/ZG089/Re-Malwack/",
-    "license": "GPL-3.0",
-    "bannerUrl": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/module/banner.png"
   },
   {
     "name": "Play Integrity Fork",
@@ -141,19 +44,10 @@
     "license": "GPL-3.0"
   },
   {
-    "name": "HyperUnlocked",
-    "description": "Unlock high-end Xiaomi features on all Xiaomi devices!",
-    "author": "ukriu",
-    "repoUrl": "https://github.com/ukriu/HyperUnlocked",
+    "name": "MTKPerfomance",
+    "description": "A Magisk module for MediaTek devices with Mali GPUs",
+    "author": "JUANIMAN",
+    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module",
     "license": "GPL-3.0",
-    "bannerUrl": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png"
   },
-  {
-    "name": "MFGA",
-    "description": "System-wide Font Overrider with Unique GMS Masking & Multi-Range Unicode Filter",
-    "author": "Numbersf",
-    "repoUrl": "https://github.com/Numbersf/MakeFontsGreatAgain",
-    "license": "OFL-1.1",
-    "bannerUrl": "https://raw.githubusercontent.com/Numbersf/MakeFontsGreatAgain/main/banner.png"
-  }
 ]
