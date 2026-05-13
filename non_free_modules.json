@@ -13,4 +13,11 @@
     "repoUrl": "https://github.com/5ec1cff/TrickyStore",
     "description": "A trick of keystore"
   }
+  {
+    "author": "gloeyisk",
+    "license": "Closed-Source",
+    "name": "Systemless Hosts",
+    "repoUrl": "https://github.com/gloeyisk/systemless-hosts",
+    "description": "An efficient ad blocker, with no user interface"
+  }
 ]
