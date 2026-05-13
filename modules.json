@@ -88,5 +88,27 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/gloeyisk/systemless-hosts",
     "license": "idk"
-  }
+  },
+  {
+    "id": "zygisk-next",
+    "name": "ZygiskNext",
+    "description": "Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "Dr-TSNG",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext",
+    "license": "idk"
+  },
+  {
+    "id": "trickystore",
+    "name": "TrickyStore",
+    "description": "This module is used for modifying the certificate chain generated for android key attestation.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "5ec1cff",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/5ec1cff/TrickyStore",
+    "license": "idk"
+  },
 ]
