@@ -47,7 +47,14 @@
     "name": "MTKPerfomance",
     "description": "A Magisk module for MediaTek devices with Mali GPUs",
     "author": "JUANIMAN",
-    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module",
+    "repoUrl": "https://github.com/JUANIMAN/PerfMTK",
     "license": "GPL-3.0",
   },
+  {
+    "name": "Pixelify Next",
+    "description": "A Root (Magisk, Apatch, KSU, KSUn, ... ) Module which enables Pixel UI and some exclusive features.",
+    "author": "BasGame1",
+    "repoUrl": "https://github.com/BasGame1/Pixelify-Next",
+    "license": "Apache-2.0",
+  }
 ]
