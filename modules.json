@@ -66,5 +66,16 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/ImMALWARE/zapret-magisk",
     "license": "MIT"
+  },
+  {
+    "id": "video-to-bootanimation",
+    "name": "Video to Bootanimation",
+    "description": "A Magisk/KernelSU Module that lets you set an MP4 video as your Android device's boot animation — no PC required.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "Magisk Modules Alt Repo",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation",
+    "license": "GPL-3.0"
   }
 ]
