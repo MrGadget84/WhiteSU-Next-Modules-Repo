@@ -1,0 +1,60 @@
+[
+  {
+    "name": "KPatch Next",
+    "description": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "author": "rifsxd, KOWX712",
+    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module",
+    "license": "GPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/KernelSU-Next/KPatch-Next-Module/main/module/banner.png"
+  },
+  {
+    "name": "Play Integrity Fix [INJECT]",
+    "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
+    "author": "chiteroman, KOWX712",
+    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "DeviceID/SSAID Changer",
+    "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
+    "author": "sidex15",
+    "repoUrl": "https://github.com/sidex15/deviceidchanger",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "SUSFS-FOR-KERNELSU",
+    "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
+    "author": "sidex15 & simonpunk",
+    "repoUrl": "https://github.com/sidex15/susfs4ksu-module",
+    "license": "AGPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/v1.5.2%2B/banner.png"
+  },
+  {
+    "name": "Tricky Addon",
+    "description": "A WebUI to configure Tricky Store/TEESimulator target.txt",
+    "author": "KOWX712",
+    "repoUrl": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "Play Integrity Fork",
+    "description": "Fix <A13 Play Integrity DEVICE verdict",
+    "author": "osm0sis & chiteroman @ xda-developers",
+    "repoUrl": "https://github.com/osm0sis/PlayIntegrityFork",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "MTKPerfomance",
+    "description": "A Magisk module for MediaTek devices with Mali GPUs",
+    "author": "JUANIMAN",
+    "repoUrl": "https://github.com/JUANIMAN/PerfMTK",
+    "license": "GPL-3.0",
+  },
+  {
+    "name": "Pixelify Next",
+    "description": "A Root (Magisk, Apatch, KSU, KSUn, ... ) Module which enables Pixel UI and some exclusive features.",
+    "author": "BasGame1",
+    "repoUrl": "https://github.com/BasGame1/Pixelify-Next",
+    "license": "Apache-2.0",
+  }
+]
