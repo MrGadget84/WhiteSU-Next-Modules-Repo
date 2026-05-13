@@ -77,5 +77,16 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation",
     "license": "GPL-3.0"
+  },
+  {
+    "id": "systemless-hosts",
+    "name": "Systemless Hosts",
+    "description": "An efficient ad blocker, with no user interface",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "gloeyisk",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/gloeyisk/systemless-hosts",
+    "license": "Closed-Source"
   }
 ]
